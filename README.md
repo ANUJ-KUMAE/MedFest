@@ -1,79 +1,37 @@
-This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
+Output:
 
-# Getting Started
+![Screenshot_1707412551](https://github.com/ANUJ-KUMAE/MedFest/assets/119961686/0a749881-f8d3-45ab-86a3-66ee5693d474)
 
->**Note**: Make sure you have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions till "Creating a new application" step, before proceeding.
+Login Page And SignUp Page:
 
-## Step 1: Start the Metro Server
+![Screenshot_1707412564](https://github.com/ANUJ-KUMAE/MedFest/assets/119961686/56c90bb6-454b-4437-b163-0f39a6e1be8b)
 
-First, you will need to start **Metro**, the JavaScript _bundler_ that ships _with_ React Native.
+![Screenshot_1707412572](https://github.com/ANUJ-KUMAE/MedFest/assets/119961686/f54868e9-4421-4d03-a2c6-affa95922f1a)
 
-To start Metro, run the following command from the _root_ of your React Native project:
+Main Page And LogOut Page: 
 
-```bash
-# using npm
-npm start
+![Screenshot_1707412656](https://github.com/ANUJ-KUMAE/MedFest/assets/119961686/b1ed604e-de37-4712-baf0-350619397f1d)
 
-# OR using Yarn
-yarn start
-```
+Blog Page:
 
-## Step 2: Start your Application
+![Screenshot_1707412668](https://github.com/ANUJ-KUMAE/MedFest/assets/119961686/aafd26e9-f075-46d9-b8c1-2bb2f46cd40d)
 
-Let Metro Bundler run in its _own_ terminal. Open a _new_ terminal from the _root_ of your React Native project. Run the following command to start your _Android_ or _iOS_ app:
+![Screenshot_1707412682](https://github.com/ANUJ-KUMAE/MedFest/assets/119961686/9ec4931d-79fd-4acd-bc4d-95e4147a1e44)
 
-### For Android
+Music Page:
 
-```bash
-# using npm
-npm run android
+![Screenshot_1707412693](https://github.com/ANUJ-KUMAE/MedFest/assets/119961686/e64e3530-4c12-4db2-9ade-dac3bfd2c632)
 
-# OR using Yarn
-yarn android
-```
+![Screenshot_1707412708](https://github.com/ANUJ-KUMAE/MedFest/assets/119961686/e51185fa-0e19-401e-97c9-a6633c0371f1)
 
-### For iOS
+![Screenshot_1707412722](https://github.com/ANUJ-KUMAE/MedFest/assets/119961686/9be259f8-f7b6-4ed1-8649-8135d775b6d5)
 
-```bash
-# using npm
-npm run ios
 
-# OR using Yarn
-yarn ios
-```
 
-If everything is set up _correctly_, you should see your new app running in your _Android Emulator_ or _iOS Simulator_ shortly provided you have set up your emulator/simulator correctly.
 
-This is one way to run your app — you can also run it directly from within Android Studio and Xcode respectively.
 
-## Step 3: Modifying your App
 
-Now that you have successfully run the app, let's modify it.
 
-1. Open `App.tsx` in your text editor of choice and edit some lines.
-2. For **Android**: Press the <kbd>R</kbd> key twice or select **"Reload"** from the **Developer Menu** (<kbd>Ctrl</kbd> + <kbd>M</kbd> (on Window and Linux) or <kbd>Cmd ⌘</kbd> + <kbd>M</kbd> (on macOS)) to see your changes!
 
-   For **iOS**: Hit <kbd>Cmd ⌘</kbd> + <kbd>R</kbd> in your iOS Simulator to reload the app and see your changes!
 
-## Congratulations! :tada:
 
-You've successfully run and modified your React Native App. :partying_face:
-
-### Now what?
-
-- If you want to add this new React Native code to an existing application, check out the [Integration guide](https://reactnative.dev/docs/integration-with-existing-apps).
-- If you're curious to learn more about React Native, check out the [Introduction to React Native](https://reactnative.dev/docs/getting-started).
-
-# Troubleshooting
-
-If you can't get this to work, see the [Troubleshooting](https://reactnative.dev/docs/troubleshooting) page.
-
-# Learn More
-
-To learn more about React Native, take a look at the following resources:
-
-- [React Native Website](https://reactnative.dev) - learn more about React Native.
-- [Getting Started](https://reactnative.dev/docs/environment-setup) - an **overview** of React Native and how setup your environment.
-- [Learn the Basics](https://reactnative.dev/docs/getting-started) - a **guided tour** of the React Native **basics**.
-- [Blog](https://reactnative.dev/blog) - read the latest official React Native **Blog** posts.
-- [`@facebook/react-native`](https://github.com/facebook/react-native) - the Open Source; GitHub **repository** for React Native.
