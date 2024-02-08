@@ -1,0 +1,13 @@
+{
+  "name": "Medfest",
+  "displayName": "Medfest",
+  "expo": {
+    "extra": {
+      "eas": {
+        "projectId": "94e2ff7d-e004-477d-a718-f17bbb760d06"
+      }
+    },
+    "owner": "anujkumar0405",
+    "slug": "medfest"
+  }
+}
